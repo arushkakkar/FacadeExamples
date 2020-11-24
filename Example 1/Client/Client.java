@@ -4,7 +4,8 @@ import Facade.ComputerFacade;
 
 public class Client {
     public static void main(String[] args){
-        ComputerFacade myComputer = new ComputerFacade();
-        myComputer.start();
+        // CPU processor = new CPU();
+        // Memory RAM = new Memory();
+        // HardDrive hdd = new HardDrive();
     }
 }
